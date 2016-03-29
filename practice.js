@@ -101,5 +101,5 @@ setTimeout(getMyUsername, 5000);
 //In the example above, what is the 'this keyword' bound to when getUsername runs?
 
   //Answer Here
-//username
+//username but it is not tied to myUser
 //Fix the setTimeout invocation so that the user object will be the focal object when getUsername is ran.
